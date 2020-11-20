@@ -3,7 +3,7 @@ An Adobe Photoshop CEP plugin controlled by eye tracking, implementing three
 gaze-assisting features:
 
 1. QuickTool, a gaze-triggered popup that allows the user to select their next tool with gaze
-2. X-Ray, providing the user a circular window a selected underlying layer the position of which is selected with the eyes
+2. X-Ray, providing the user a circular window down to a selected underlying layer, the position of which is selected with the eyes
 3. Privacy Shield, dimming and blocking the current art board from view when looking away from the screen
 
 This project was completed for the HCI Project (INFO90008) at the University of Melbourne.
