@@ -1,5 +1,5 @@
 # GazeHelp
-An Adobe PhotoShop CEP plugin controlled by eye tracking, implementing three
+An Adobe Photoshop CEP plugin controlled by eye tracking, implementing three
 gaze-assisting features:
 
 1. QuickTool, a gaze-triggered popup that allows the user to select their next tool with gaze
@@ -9,10 +9,10 @@ gaze-assisting features:
 This project was completed for the HCI Project (INFO90008) at the University of Melbourne.
 
 # How to Use
-1. You'll need Adobe PhotoShop, a Tobii eye tracker (tested on a Tobii 4C), and Windows to run this plugin.
+1. You'll need Adobe Photoshop, a Tobii eye tracker (tested on a Tobii 4C), and Windows to run this plugin.
 2. Install the GazeHelpServer [here](https://github.com/rlewien3/GazeHelpServer) to interact with your Tobii eyetracker.
 3. Place this entire contents in: C:&#92;Program Files&#92;Common Files&#92;Adobe&#92;CEP&#92;extensions&#92;GazeHelp\
-4. Open up the extension in PhotoShop under Window>Extensions>GazeHelp and you're good to go!
+4. Open up the extension in Photoshop under Window>Extensions>GazeHelp and you're good to go!
 
 If you run installation issues, go to:
 1. regedit > HKEY_CURRENT_USER/Software/Adobe/CSXS.9
